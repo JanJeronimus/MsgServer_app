@@ -1,6 +1,11 @@
-MsgServer_android
-=================
+MsgServer_app
+============-
 
-MsgServer for Android
+MsgServer app 
 
-Access to free MsgServer for Android.
+Access to free MsgServer services
+http://www.msgserver.com
+ http://email.msgserver.com
+ http://subdomainservice.msgserver.com
+http://www.msgserver.net
+ 
